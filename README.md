@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Java Script and UI/UX 🫠**
 
-- 👯 I’m looking to collaborate on My Team **Team Bd Cyber Ninja**
+- 👯 I’m looking to collaborate on My **Team Bd Cyber Ninja**
 
 - 📝 I regularly write articles on [https://aliffreelancer.website2.me/](https://aliffreelancer.website2.me/)
 
