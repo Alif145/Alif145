@@ -1,6 +1,6 @@
 |[logo](https://github.com/Alif145/Alif145/blob/main/Our%20Team%20Logo.jpeg)
 <h1 align="center">Hi 👋, I'm Ah Alif Hassan Joy</h1>
-<h1 align="center">Hi 👋, I'm ADMIN OF Team bd cyber ninja Bangladesh Hactivist Cyber Team</h1>
+<h1 align="center">Hi 👋, I'm Admin Of Team BD Cyber Ninja Bangladesh Hactivist Cyber Team</h1>
 <h3 align="center">I'm Profesonal Hactivist or White Hat Hacker and Cyber Security specialist</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Java Script and UI/UX 🫠**
 
-- 👯 I’m looking to collaborate on My **Team Bd Cyber Ninja**
+- 👯 I’m looking to collaborate on My **Team BD Cyber Ninja**
 
 - 📝 I regularly write articles on [https://teambdcyberninja.com/](https://teambdcyberninja.com)
 
