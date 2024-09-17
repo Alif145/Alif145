@@ -1,6 +1,7 @@
 |[logo](https://github.com/Alif145/Alif145/blob/main/Our%20Team%20Logo.jpeg)
 <h1 align="center">Hi 👋, I'm Ah Alif Hassan Joy</h1>
-<h3 align="center">I'm Profesonal White Hat Ethical Hacker and Cyber Security specialist</h3>
+<h1 align="center">Hi 👋, I'm ADMIN OF Team bd cyber ninja Bangladesh Hactivist Cyber Team</h1>
+<h3 align="center">I'm Profesonal Hactivist or White Hat Hacker and Cyber Security specialist</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -14,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on My **Team Bd Cyber Ninja**
 
-- 📝 I regularly write articles on [https://aliffreelancer.website2.me/](https://aliffreelancer.website2.me/)
+- 📝 I regularly write articles on [https://teambdcyberninja.com/](https://teambdcyberninja.com)
 
 - 💬 Ask me about **🫣Whats Your Favorit Operating system?**
 
