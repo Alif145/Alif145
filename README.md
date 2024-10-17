@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ahalifhassanjoy" target="blank"><img src="https://img.shields.io/twitter/follow/ahalifhassanjoy?logo=twitter&style=for-the-badge" alt="@ahalifhassanjoy" /></a> </p>
 
-- 🔭 I’m currently working on **Malware-Devloper/Revers-Engineering/or OSINT**
+- 🔭 I’m currently working on **Malware-Devloper/Revers-Engineering/OSINT
 
 - 🌱 I’m currently learning **Java Script and UI/UX 🫠**
 
