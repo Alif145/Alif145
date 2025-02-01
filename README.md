@@ -1,5 +1,5 @@
 |[logo](https://github.com/Alif145/Alif145/blob/main/Our%20Team%20Logo.jpeg)
-<h1 align="center">Hi 👋, I'm ZEROX UCHICHA </h1>
+<h1 align="center">Hi 👋, I'm ZEROX UCHIHA </h1>
 <h1 align="center">Hello 👋, I'm Admin Of Team BD Cyber Ninja (Spy-Agents) Bangladesh Hacktivist Cyber Team</h1>
 <h3 align="center">|N|e|v|e|r| |G|i|v|e| |U|p|</h3>
 
