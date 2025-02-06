@@ -19,9 +19,11 @@
 
 - 💬 Ask me about **🫣Whats Your Favorit Operating system?**
 
-- 📫 How to reach me **teambdcyberninja@gmail.com**
+- 📫 How to reach me **teambdcyberninjaorg@gmail.com**
 
-- 📄 Know about my experiences [https://www.fiverr.com/ahalif145?up_rollout=true](https://www.fiverr.com/ahalif145?up_rollout=true)
+- 📄 Know about our Defacer Mirror [https://haxor.id/archive/team/TEAM+BD+CYBER+NINJA](https://haxor.id/archive/team/TEAM+BD+CYBER+NINJA)
+
+- 📄 Know about our 2nd Defacer Mirror [https://defacer.id/archive/team=Team%2520BD%2520Cyber%2520Ninja%2520/page=1](https://defacer.id/archive/team=Team%2520BD%2520Cyber%2520Ninja%2520/page=1)
 
 - ⚡ Fun fact **You Know I wana See You?☠️**
 
