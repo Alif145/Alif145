@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Malware-Devloper/Revers-Engineering/OSINT
 
-- 🌱 I’m currently Devlope My Skils **OSINT/ZERO-DAY EXPOLIT/ ETC🫠**
+- 🌱 I’m currently Devlope My Skils **OSINT/ZERO-DAY EXPOLIT.🫠**
 
 - 👯 I’m looking to collaborate on My **Team BD Cyber Ninja**
 
