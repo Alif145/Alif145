@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alif145&label=Profile%20views&color=0e75b6&style=flat" alt="alif145" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ahalifhassanjoy" target="blank"><img src="https://img.shields.io/twitter/follow/ahalifhassanjoy?logo=twitter&style=for-the-badge" alt="@ahalifhassanjoy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ahalifhassanjoy" target="blank"><img src="https://img.shields.io/twitter/follow/ahalifhassanjoy?logo=twitter&style=for-the-badge" alt="@CaptainZeroxUchiha" /></a> </p>
 
 - 🔭 I’m currently working on **Malware-Devloper/Revers-Engineering/OSINT
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ahalifhassanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahalifhassanjoy" height="30" width="40" /></a>
+<a href="https://twitter.com/@CaptainZeroxuchiha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahalifhassanjoy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ah-alif-hassan-joy-61966b256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ah-alif-hassan-joy-61966b256/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/ahalifhassanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/ahalifhassanjoy" height="30" width="40" /></a>
 <a href="https://fb.com/ahalifhassanjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahalifhassanjoy" height="30" width="40" /></a>
